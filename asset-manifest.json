@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/gamma/static/css/main.0befe995.css",
-    "main.js": "/gamma/static/js/main.a29e6f46.js",
+    "main.js": "/gamma/static/js/main.ac208fc7.js",
     "static/js/453.906b692b.chunk.js": "/gamma/static/js/453.906b692b.chunk.js",
     "static/media/NeueMachina-Regular.otf": "/gamma/static/media/NeueMachina-Regular.6c408aeebce449ab7d74.otf",
     "static/media/NeueMachina-Ultrabold.otf": "/gamma/static/media/NeueMachina-Ultrabold.07d4eef9a71d90303bbf.otf",
     "static/media/NeueMachina-Light.otf": "/gamma/static/media/NeueMachina-Light.e1fb3b2574d18010b9ff.otf",
     "index.html": "/gamma/index.html",
     "main.0befe995.css.map": "/gamma/static/css/main.0befe995.css.map",
-    "main.a29e6f46.js.map": "/gamma/static/js/main.a29e6f46.js.map",
+    "main.ac208fc7.js.map": "/gamma/static/js/main.ac208fc7.js.map",
     "453.906b692b.chunk.js.map": "/gamma/static/js/453.906b692b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0befe995.css",
-    "static/js/main.a29e6f46.js"
+    "static/js/main.ac208fc7.js"
   ]
 }
