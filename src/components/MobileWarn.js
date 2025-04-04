@@ -14,7 +14,7 @@ export default function MobileWarn() {
       }}
     >
       <img
-        src={`${process.env.PUBLIC_URL}/logo.png`}
+        src='./assets/logo.png'
         alt="Logo"
         style={{ maxWidth: '50vw', marginTop: 20 }}  
       />
