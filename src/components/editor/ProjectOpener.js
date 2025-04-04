@@ -38,7 +38,7 @@ export default function ProjectOpener() {
       }}
     >
       <img
-        src="/logo.png"
+        src={`${process.env.PUBLIC_URL}/logo.png`}
         alt="Logo"
         style={{ maxWidth: '15vw' }}
       />
