@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.65632267.css",
-    "main.js": "/static/js/main.ae388b7b.js",
-    "static/js/453.906b692b.chunk.js": "/static/js/453.906b692b.chunk.js",
-    "static/media/NeueMachina-Regular.otf": "/static/media/NeueMachina-Regular.6c408aeebce449ab7d74.otf",
-    "static/media/NeueMachina-Ultrabold.otf": "/static/media/NeueMachina-Ultrabold.07d4eef9a71d90303bbf.otf",
-    "static/media/NeueMachina-Light.otf": "/static/media/NeueMachina-Light.e1fb3b2574d18010b9ff.otf",
-    "index.html": "/index.html",
-    "main.65632267.css.map": "/static/css/main.65632267.css.map",
-    "main.ae388b7b.js.map": "/static/js/main.ae388b7b.js.map",
-    "453.906b692b.chunk.js.map": "/static/js/453.906b692b.chunk.js.map"
+    "main.css": "/gamma/static/css/main.0befe995.css",
+    "main.js": "/gamma/static/js/main.db141fe0.js",
+    "static/js/453.906b692b.chunk.js": "/gamma/static/js/453.906b692b.chunk.js",
+    "static/media/NeueMachina-Regular.otf": "/gamma/static/media/NeueMachina-Regular.6c408aeebce449ab7d74.otf",
+    "static/media/NeueMachina-Ultrabold.otf": "/gamma/static/media/NeueMachina-Ultrabold.07d4eef9a71d90303bbf.otf",
+    "static/media/NeueMachina-Light.otf": "/gamma/static/media/NeueMachina-Light.e1fb3b2574d18010b9ff.otf",
+    "index.html": "/gamma/index.html",
+    "main.0befe995.css.map": "/gamma/static/css/main.0befe995.css.map",
+    "main.db141fe0.js.map": "/gamma/static/js/main.db141fe0.js.map",
+    "453.906b692b.chunk.js.map": "/gamma/static/js/453.906b692b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.65632267.css",
-    "static/js/main.ae388b7b.js"
+    "static/css/main.0befe995.css",
+    "static/js/main.db141fe0.js"
   ]
 }
