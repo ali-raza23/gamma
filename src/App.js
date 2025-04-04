@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import './App.css';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import ProjectOpener from './components/editor/ProjectOpener.js';
 import MobileWarn from './components/MobileWarn.js';
 import HomeScreen from './components/HomeScreen.js';
