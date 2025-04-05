@@ -13,56 +13,56 @@ export default function MobileWarn() {
         padding: 2,
       }}
     >
+      {/* Logo */}
       <img
-        src='./assets/logo.png'
+        src={`${process.env.PUBLIC_URL}/logo.png`}
         alt="Logo"
-        style={{ maxWidth: '50vw', marginTop: 20 }}  
+        style={{ maxWidth: '50vw', marginTop: 20 }}
       />
-      
-      <Paper 
-        elevation={0.5}
-        square={false}
-        sx={{
-          display: 'flex',
-          justifyContent: 'center',
-          alignItems: 'center',
-          padding: '16px', 
-          maxWidth: '80%', 
-          width: 'auto',
-          textAlign: 'center',
-        }}
-      >
-        <Typography 
-          variant="h5" 
-          sx={{ 
-            fontFamily: 'NeueMachina-Regular', 
-            fontSize: '4vw', 
-            padding: '10px', 
+
+      <Box sx={{ flex: 1, display: 'flex', alignItems: 'center', justifyContent: 'center', width: '100%' }}>
+        <Paper
+          elevation={0.5}
+          sx={{
+            padding: 2,
+            maxWidth: '80%',
+            width: 'auto',
+            textAlign: 'center',
           }}
         >
-          Gamma does not support Mobile yet. Unfortunately.
-        </Typography>
-      </Paper>
+          <Typography
+            variant="h5"
+            sx={{
+              fontFamily: 'NeueMachina-Regular',
+              fontSize: '4vw',
+              padding: 1,
+            }}
+          >
+            Gamma does not support Mobile yet. Unfortunately.
+          </Typography>
+        </Paper>
+      </Box>
 
+      {/* Footer */}
       <Box
         sx={{
           display: 'flex',
-          justifyContent: 'center', 
-          alignItems: 'flex-end', 
+          justifyContent: 'center',
+          alignItems: 'flex-end',
           paddingBottom: 2,
         }}
       >
-        <Typography 
-          variant="body2" 
-          sx={{ 
-            fontFamily: 'NeueMachina-Regular', 
+        <Typography
+          variant="body2"
+          sx={{
+            fontFamily: 'NeueMachina-Regular',
             fontSize: '3vw',
           }}
         >
           Developed By{" "}
-          <Link 
-            href="https://www.instagram.com/zi_aliraza/" 
-            target="_blank" 
+          <Link
+            href="https://www.instagram.com/zi_aliraza/"
+            target="_blank"
             rel="noopener noreferrer"
             sx={{ fontWeight: 'bold', textDecoration: 'none' }}
           >

@@ -16,7 +16,7 @@ export default function HomeScreen() {
       }}
     >
       <img
-        src='./assets/logo.png'
+        src={`${process.env.PUBLIC_URL}/logo.png`}
         alt="Logo"
         style={{ maxWidth: '10vw' }}  
       />
